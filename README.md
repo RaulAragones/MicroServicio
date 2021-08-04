@@ -1,1 +1,2 @@
-Pruebas para cargar informacion
+Buenas tardes Estimados,
+	comunico que en la rama V1 encontraran en backend y en el V2 el frontendo segun lo solicitado, con la diferencia de que no pude crear los docker por temas de equipo(Mi PC no soporto la instalacion del Docker).
